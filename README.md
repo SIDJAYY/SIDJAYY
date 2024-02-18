@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Competitive Programmer
 ----------------------
 
-I'm a begginer and want to enhance my skill throughout my journey in I.T
+I'm a beginner and wish to enhance my skill throughout my journey in I.T
 
 * 🌍  I'm based in PHILIPPINES
 * ✉️  You can contact me at [bacolodcarl00@gmail.com](mailto:bacolodcarl00@gmail.com)
