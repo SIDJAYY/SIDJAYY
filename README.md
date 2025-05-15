@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CJ
 ==========================================================================================================================
 
-Competitive Programmer
+VA/DATA ANALYST
 ----------------------
 
 I'm a beginner and wish to enhance my skill throughout my journey in I.T
 
 * 🌍  I'm based in PHILIPPINES
 * ✉️  You can contact me at [bacolodcarl00@gmail.com](mailto:bacolodcarl00@gmail.com)
-* 🧠  I'm learning a new Framework
+* 🧠  I'm learning everthing that can help me to improve my skills
 * 🤝  I'm open to collaborating on intresting projects
 
 ### Skills
